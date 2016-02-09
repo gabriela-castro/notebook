@@ -1,0 +1,19 @@
+{
+  "name": "Notebook",
+  "version": "1.1",
+  "description": "Um aplicativo que emula um caderno, onde pode escrever suas notas, seus pensamentos e até enviar por e-mail ",
+  "launch_path": "/index.html",
+  "permissions": {
+    "storage": {
+      "description": "Required for storing and retrieving notes."
+      }
+  },
+  "developer": {
+    "name": "Gabriela Castro",
+    "url": "http://gabriela.x-br.com"
+  },
+  "icons": {
+    "64": "/style/icons/icon_64.png",
+    "128": "/style/icons/icon_128.png"
+  }
+}
